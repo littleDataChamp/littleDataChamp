@@ -373,8 +373,6 @@ AI_AGENT_STATUS:    █████████████ 100%
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=littleDataChamp&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="trophy" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=100&section=footer&text=CODE%20MONSTER&fontSize=40&animation=fadeIn&fontColor=0D1117" />
 </div>
 ````
