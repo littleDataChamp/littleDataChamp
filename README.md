@@ -1,8 +1,5 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:FF00FF&height=250&section=header&text=Ketan%20Sonar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Cloud%20Architect%20|%20Founder%20of%20SONAR&descAlignY=58&descSize=20" width="100%" />
-
+  <img src="github-banner.png" alt="Ketan Sonar Header" width="100%" />
 </div>
 
 <div align="center">
