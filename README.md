@@ -373,6 +373,12 @@ AI_AGENT_STATUS:    █████████████ 100%
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=100&section=footer&text=CODE%20MONSTER&fontSize=40&animation=fadeIn&fontColor=0D1117" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,nodejs,react,python,mongodb,mysql,aws,docker&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer&fontSize=90" />
 </div>
 ````
