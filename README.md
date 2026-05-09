@@ -1,6 +1,6 @@
 <!-- Header Banner: See Step 2 below to replace this with your custom graphic -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ketan%20Sonar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Founder&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="github-banner.png" alt="Ketan Sonar Header" width="100%" />
 </p>
 
 <!-- Animated Typing Intro -->
