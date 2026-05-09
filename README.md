@@ -367,12 +367,6 @@ AI_AGENT_STATUS:    █████████████ 100%
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:0D1117,100:00F0FF&height=150&section=footer"/>
-
-</div>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,nodejs,react,python,mongodb,mysql,aws,docker&theme=dark" />
 </div>
 
