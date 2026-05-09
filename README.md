@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="github-banner.png" width="100%" />
@@ -135,7 +134,7 @@ F --> G[Analytics Dashboard]
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=littleDataChamp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=littleDataChamp&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=littleDataChamp&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF"/>
 
 <br><br>
 
