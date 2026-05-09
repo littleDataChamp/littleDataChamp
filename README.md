@@ -61,15 +61,11 @@ I am a Data Scientist and AI Engineer based in Mumbai, specializing in decentral
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=littleDataChamp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ketan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=littleDataChamp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=littleDataChamp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=littleDataChamp&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littleDataChamp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-<p align="center">
-  <i>"Hired for what you have built publicly, not just what you know."</i>
-</p>
+</div>
